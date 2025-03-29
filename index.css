@@ -1,0 +1,21 @@
+h1{
+  color:brown;
+  font-family:'Courier New', Courier, monospace;
+  padding: 4px;
+  font-size: 15px;
+  text-align: center;
+}
+p{
+  color:blue;
+  padding: 5px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.btn {
+  background-color:aquamarine;
+  color:black;
+  padding: 10px;
+  
+}
+
